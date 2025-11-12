@@ -30,3 +30,20 @@ The analysis helps identify data patterns, distributions, correlations, and feat
 1. Install requirements:
    ```bash
    pip install pandas numpy seaborn matplotlib scikit-learn
+
+---
+
+## Author
+
+**Shivali Muthukumar | Data Analyst**
+
+---
+
+## 🪪 License
+
+This project is released under the **MIT License**.  
+Feel free to reuse the code, calculations, or design ideas with proper credit.
+
+---
+
+### ⭐ If you found this dashboard insightful, please star this repository on GitHub!
