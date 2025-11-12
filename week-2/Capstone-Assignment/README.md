@@ -100,4 +100,5 @@ Press CTRL + C in your terminal to stop the app.
 
 ---
 
-# Author: Shivali Muthukumar | Data Analyst
+### Author
+**Shivali Muthukumar | Data Analyst**  
