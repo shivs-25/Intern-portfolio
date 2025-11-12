@@ -1,1 +1,1 @@
-This folder contains 18 datasets from Strava Fitness.
+In order to successfully execute this project, 18 datasets were obtained from Strava Fitness. Due to size issues, they were not uploaded here. If you are looking to obtain the specific files, please contact me so that I can provide the datasets. Thank you.
