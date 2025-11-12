@@ -55,18 +55,18 @@ The dashboard is built using the following datasets:
 ## ⚙️ Measures and Calculations
 1. Some of the key DAX calculations used:
    ```DAX
-Penetration Rate = 
-DIVIDE(
+   Penetration Rate =
+   DIVIDE(
     SUM('electric_vehicle_sales_by_state'[Electric_Vehicles_Sold]),
     SUM('electric_vehicle_sales_by_state'[Total_Vehicles_Sold])
-)
+   )
 
-CAGR = 
-VAR StartYear = CALCULATE(SUM('electric_vehicle_sales_by_state'[Electric_Vehicles_Sold]), FILTER('dim_date', 'dim_date'[fiscal_year] = 2021))
-VAR EndYear   = CALCULATE(SUM('electric_vehicle_sales_by_state'[Electric_Vehicles_Sold]), FILTER('dim_date', 'dim_date'[fiscal_year] = 2024))
-VAR Years     = 3
-RETURN
-((EndYear / StartYear) ^ (1 / Years)) - 1
+   CAGR =
+   VAR StartYear = CALCULATE(SUM('electric_vehicle_sales_by_state'[Electric_Vehicles_Sold]), FILTER('dim_date', 'dim_date'[fiscal_year] = 2021))
+   VAR EndYear   = CALCULATE(SUM('electric_vehicle_sales_by_state'[Electric_Vehicles_Sold]), FILTER('dim_date', 'dim_date'[fiscal_year] = 2024))
+   VAR Years     = 3
+   RETURN
+   ((EndYear / StartYear) ^ (1 / Years)) - 1
 
 ---
 
@@ -88,3 +88,17 @@ RETURN
 
 ---
 
+## Author
+
+**Shivali Muthukumar | Data Analyst**
+
+---
+
+## 🪪 License
+
+This project is released under the **MIT License**.  
+Feel free to reuse the code, calculations, or design ideas with proper credit.
+
+---
+
+### ⭐ If you found this dashboard insightful, please star this repository on GitHub!
