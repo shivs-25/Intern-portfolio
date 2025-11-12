@@ -94,3 +94,20 @@ An optional Logistic Regression model was included to classify whether a title i
 2. Comprehensive EDA with clear visualizations.
 3. Actionable insights & business recommendations.
 4. Optional ML classifier (for bonus analytics).
+
+---
+
+## Author
+
+**Shivali Muthukumar | Data Analyst**
+
+---
+
+## 🪪 License
+
+This project is released under the **MIT License**.  
+Feel free to reuse the code, calculations, or design ideas with proper credit.
+
+---
+
+### ⭐ If you found this dashboard insightful, please star this repository on GitHub!
