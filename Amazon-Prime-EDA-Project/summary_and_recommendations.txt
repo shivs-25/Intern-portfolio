@@ -1,0 +1,10 @@
+Key Insights:
+- Distribution of Movies vs TV shows is visible — check content_type_counts.png
+- Genre distribution highlights top genres (see top_genres_horizontal.png)
+- Recent release trends show increases/decreases by year (releases_per_year.png)
+- Ratings distribution indicates what audience types the catalog is biased towards
+
+Recommendations:
+- Invest in growing genres producing positive release trends.
+- Consider local-language content in top-producing countries.
+- Improve balance between TV and Movies if one dominates.
