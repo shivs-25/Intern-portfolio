@@ -28,6 +28,24 @@ I used ANOVA, t-tests, and post-hoc analyses to determine which groups differ si
 ---
 
 ## ▶️ How to Run
-```bash
+
 pip install pandas numpy scipy statsmodels seaborn matplotlib
 jupyter notebook unit3_case_based_assignment.ipynb
+
+---
+
+## Author
+
+**Shivali Muthukumar | Data Analyst**
+
+---
+
+## 🪪 License
+
+This project is released under the **MIT License**.  
+Feel free to reuse the code, calculations, or design ideas with proper credit.
+
+---
+
+### ⭐ If you found this dashboard insightful, please star this repository on GitHub!
+
