@@ -1,0 +1,101 @@
+competitor_id,name,country,country_code,abbreviation
+sr:competitor:1000,Jannik Sinner,Italy,ITA,JSR
+sr:competitor:1001,Ivan Coric,Croatia,CRO,ICC
+sr:competitor:1002,Alexander Zverev,Germany,DEU,AZV
+sr:competitor:1003,Diego Schwartzman,Argentina,ARG,DSN
+sr:competitor:1004,Jaime Alvarez,Spain,ESP,JAZ
+sr:competitor:1005,Gael Monfils,France,FRA,GMS
+sr:competitor:1006,Matteo Berrettini,Italy,ITA,MBI
+sr:competitor:1007,Jannik Berrettini,Italy,ITA,JBI
+sr:competitor:1008,Jaime Lopez,Spain,ESP,JLZ
+sr:competitor:1009,Mate Mektic,Croatia,CRO,MMC
+sr:competitor:1010,Cristian Jarry,Chile,CHL,CJY
+sr:competitor:1011,Ugo Gaston,France,FRA,UGN
+sr:competitor:1012,Sebastian Baez,Argentina,ARG,SBZ
+sr:competitor:1013,Alexander Zverev,Germany,DEU,AZV
+sr:competitor:1014,Ivan Cilic,Croatia,CRO,ICC
+sr:competitor:1015,Taylor Shelton,United States,USA,TSN
+sr:competitor:1016,Rohan Ramanathan,India,IND,RRN
+sr:competitor:1017,Roberto Ferrer,Spain,ESP,RFR
+sr:competitor:1018,Alexander Koepfer,Germany,DEU,AKR
+sr:competitor:1019,Federico Schwartzman,Argentina,ARG,FSN
+sr:competitor:1020,Fabio Sinner,Italy,ITA,FSR
+sr:competitor:1021,Filip Misolic,Austria,AUT,FMC
+sr:competitor:1022,Ugo Monfils,France,FRA,UMS
+sr:competitor:1023,Alexander Koepfer,Germany,DEU,AKR
+sr:competitor:1024,Matteo Musetti,Italy,ITA,MMI
+sr:competitor:1025,Taylor Opelka,United States,USA,TOA
+sr:competitor:1026,Borna Cilic,Croatia,CRO,BCC
+sr:competitor:1027,Jaime Ferrer,Spain,ESP,JFR
+sr:competitor:1028,Ben Eubanks,United States,USA,BES
+sr:competitor:1029,Sebastian Cerundolo,Argentina,ARG,SCO
+sr:competitor:1030,Lorenzo Musetti,Italy,ITA,LMI
+sr:competitor:1031,Ugo Mannarino,France,FRA,UMO
+sr:competitor:1032,Dominic Novak,Austria,AUT,DNK
+sr:competitor:1033,Alejandro Tabilo,Chile,CHL,ATO
+sr:competitor:1034,Borna Coric,Croatia,CRO,BCC
+sr:competitor:1035,Ben Shelton,United States,USA,BSN
+sr:competitor:1036,David Lopez,Spain,ESP,DLZ
+sr:competitor:1037,Ivan Cilic,Croatia,CRO,ICC
+sr:competitor:1038,Tommy Opelka,United States,USA,TOA
+sr:competitor:1039,Diego Baez,Argentina,ARG,DBZ
+sr:competitor:1040,Mate Dodig,Croatia,CRO,MDG
+sr:competitor:1041,Alexander Zverev,Germany,DEU,AZV
+sr:competitor:1042,Lorenzo Berrettini,Italy,ITA,LBI
+sr:competitor:1043,Jurij Rodenov,Austria,AUT,JRV
+sr:competitor:1044,Dominik Struff,Germany,DEU,DSF
+sr:competitor:1045,Matteo Musetti,Italy,ITA,MMI
+sr:competitor:1046,Nicolas Jarry,Chile,CHL,NJY
+sr:competitor:1047,Christopher Korda,United States,USA,CKA
+sr:competitor:1048,Sebastian Delbonis,Argentina,ARG,SDS
+sr:competitor:1049,Jaime Bautista,Spain,ESP,JBA
+sr:competitor:1050,Tommy Paul,United States,USA,TPL
+sr:competitor:1051,Sergio Garcia,Spain,ESP,SGA
+sr:competitor:1052,Jannik Sinner,Italy,ITA,JSR
+sr:competitor:1053,Francisco Cerundolo,Argentina,ARG,FCO
+sr:competitor:1054,Fabio Sinner,Italy,ITA,FSR
+sr:competitor:1055,Fabio Fognini,Italy,ITA,FFI
+sr:competitor:1056,Nikola Pavic,Croatia,CRO,NPC
+sr:competitor:1057,Saketh Ramanathan,India,IND,SRN
+sr:competitor:1058,Carlos Garcia,Spain,ESP,CGA
+sr:competitor:1059,David Bautista,Spain,ESP,DBA
+sr:competitor:1060,Diego Baez,Argentina,ARG,DBZ
+sr:competitor:1061,Mate Coric,Croatia,CRO,MCC
+sr:competitor:1062,Sumit Bopanna,India,IND,SBA
+sr:competitor:1063,Lorenzo Berrettini,Italy,ITA,LBI
+sr:competitor:1064,Diego Baez,Argentina,ARG,DBZ
+sr:competitor:1065,Saketh Myneni,India,IND,SMI
+sr:competitor:1066,Yuki Bhambri,India,IND,YBI
+sr:competitor:1067,Filip Novak,Austria,AUT,FNK
+sr:competitor:1068,Carlos Bautista,Spain,ESP,CBA
+sr:competitor:1069,Mate Cilic,Croatia,CRO,MCC
+sr:competitor:1070,Taylor Tiafoe,United States,USA,TTE
+sr:competitor:1071,Cristian Jarry,Chile,CHL,CJY
+sr:competitor:1072,Alexander Zverev,Germany,DEU,AZV
+sr:competitor:1073,Sebastian Fritz,United States,USA,SFZ
+sr:competitor:1074,Pablo Ramos,Spain,ESP,PRS
+sr:competitor:1075,Reilly Fritz,United States,USA,RFZ
+sr:competitor:1076,Reilly Korda,United States,USA,RKA
+sr:competitor:1077,Francisco Cerundolo,Argentina,ARG,FCO
+sr:competitor:1078,Sumit Myneni,India,IND,SMI
+sr:competitor:1079,Matteo Musetti,Italy,ITA,MMI
+sr:competitor:1080,Federico Cerundolo,Argentina,ARG,FCO
+sr:competitor:1081,Alejandro Tabilo,Chile,CHL,ATO
+sr:competitor:1082,Matteo Musetti,Italy,ITA,MMI
+sr:competitor:1083,Ben Eubanks,United States,USA,BES
+sr:competitor:1084,Roberto Ramos,Spain,ESP,RRS
+sr:competitor:1085,Sergio Garcia,Spain,ESP,SGA
+sr:competitor:1086,Matteo Berrettini,Italy,ITA,MBI
+sr:competitor:1087,Marin Dodig,Croatia,CRO,MDG
+sr:competitor:1088,Taylor Korda,United States,USA,TKA
+sr:competitor:1089,Saketh Bhambri,India,IND,SBI
+sr:competitor:1090,Sebastian Paul,United States,USA,SPL
+sr:competitor:1091,Diego Schwartzman,Argentina,ARG,DSN
+sr:competitor:1092,Marin Coric,Croatia,CRO,MCC
+sr:competitor:1093,Nicolas Jarry,Chile,CHL,NJY
+sr:competitor:1094,Filip Thiem,Austria,AUT,FTM
+sr:competitor:1095,Francisco Baez,Argentina,ARG,FBZ
+sr:competitor:1096,Alejandro Garin,Chile,CHL,AGN
+sr:competitor:1097,Alejandro Nadal,Spain,ESP,ANL
+sr:competitor:1098,Sergio Lopez,Spain,ESP,SLZ
+sr:competitor:1099,Hugo Gaston,France,FRA,HGN
