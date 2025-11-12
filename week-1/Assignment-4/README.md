@@ -29,8 +29,10 @@ I used ANOVA, t-tests, and post-hoc analyses to determine which groups differ si
 
 ## ▶️ How to Run
 
-- pip install pandas numpy scipy statsmodels seaborn matplotlib
-- jupyter notebook unit3_case_based_assignment.ipynb
+1. Install requirements:
+   ```bash
+   pip install pandas numpy scipy statsmodels seaborn matplotlib
+   jupyter notebook unit3_case_based_assignment.ipynb
 
 ---
 
