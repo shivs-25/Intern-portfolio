@@ -26,7 +26,7 @@ The goal is to understand how to summarize, interpret, and analyze datasets usin
 ---
 
 ## ▶️ How to Run
-```bash
+
 pip install numpy scipy matplotlib
 jupyter notebook unit3_statistics_assignment.ipynb
 
