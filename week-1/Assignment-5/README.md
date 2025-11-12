@@ -28,10 +28,10 @@ I used the **MySQL Employees Sample Database** to practice real-world relational
 1. Download the Employees Sample Database from:  
    https://github.com/datacharmer/test_db  
 2. Load it in MySQL:
-   
-   - CREATE DATABASE employees;
-   - USE employees;
-   - SOURCE employees.sql;
+   ```sql
+   CREATE DATABASE employees;
+   USE employees;
+   SOURCE employees.sql;
 
 ---
 
