@@ -110,5 +110,17 @@ It highlights data cleaning, feature selection, and model evaluation, fulfilling
 
 ---
 
-### Author
-**Shivali Muthukumar | Data Analyst**  
+## Author
+
+**Shivali Muthukumar | Data Analyst**
+
+---
+
+## 🪪 License
+
+This project is released under the **MIT License**.  
+Feel free to reuse the code, calculations, or design ideas with proper credit.
+
+---
+
+### ⭐ If you found this dashboard insightful, please star this repository on GitHub!
