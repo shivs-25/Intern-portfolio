@@ -84,3 +84,17 @@ This project analyzes Flipkart’s customer support data to identify the key dri
 
 ---
 
+## Author
+
+**Shivali Muthukumar | Data Analyst**
+
+---
+
+## 🪪 License
+
+This project is released under the **MIT License**.  
+Feel free to reuse the code, calculations, or design ideas with proper credit.
+
+---
+
+### ⭐ If you found this dashboard insightful, please star this repository on GitHub!
