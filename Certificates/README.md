@@ -1,0 +1,1 @@
+This file contains two certificates. One is the certificate of completion of this internship and the other certificate lists the skills and softwares learnt and practiced through practical projects and assignments.
